@@ -111,4 +111,3 @@ This project is open-source under the [MIT License](LICENSE).
 - Protocol breakdown (DNS, HTTP, TLS)
 - Cross-platform support via `pyshark` or `pcapy`
 
----
